@@ -8,7 +8,7 @@ Um mini-game inspirado no clássico Jo-Ken-Po, mas com cartas e personagens do u
 ### Cartas Disponíveis :
 ![image](./src/assets/icons/dragon.png)
 ![image](./src/assets/icons/exodia.png)
-![image](./src/assets/icons/flame.png)
+![image](./src/assets/icons/flame.png)<br>
 ![image](./src/assets/icons/gaia.png)
 ![image](./src/assets/icons/magician.png)
 ![image](./src/assets/icons/skull.png)
