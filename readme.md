@@ -5,6 +5,14 @@ Um mini-game inspirado no clássico Jo-Ken-Po, mas com cartas e personagens do u
 ## 📸 Prévia
 ![image](./src/assets/icons/exemplo.png)
 
+### Cartas Disponíveis :
+![image](./src/assets/icons/dragon.png)
+![image](./src/assets/icons/exodia.png)
+![image](./src/assets/icons/flame.png)
+![image](./src/assets/icons/gaia.png)
+![image](./src/assets/icons/magician.png)
+![image](./src/assets/icons/skull.png)
+
 ## 🚀 Funcionalidades
 
 - 🎴 Escolha de cartas interativas com hover mostrando detalhes
@@ -22,7 +30,7 @@ Um mini-game inspirado no clássico Jo-Ken-Po, mas com cartas e personagens do u
 - CSS3
 - JavaScript
 
-## 🎯 Conceitos Abordados:
+## 🎯 Conceitos Abordados
 
 - Manipulação da DOM
 - Gerenciamento de estado manual
@@ -34,7 +42,7 @@ Um mini-game inspirado no clássico Jo-Ken-Po, mas com cartas e personagens do u
 - Estruturação de pastas e assets
 
 ## 📦 Rodar o Projeto
-
+https://victorrf.github.io/yugioh-js-game/
 
 ## 🤝 Créditos
 
