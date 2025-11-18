@@ -5,7 +5,7 @@ Um mini-game inspirado no clássico Jo-Ken-Po, mas com cartas e personagens do u
 ## 📸 Prévia
 ![image](./src/assets/icons/exemplo.png)
 
-### Cartas Disponíveis :
+### 🎴 Cartas Disponíveis :
 ![image](./src/assets/icons/dragon.png)
 ![image](./src/assets/icons/exodia.png)
 ![image](./src/assets/icons/flame.png)<br>
