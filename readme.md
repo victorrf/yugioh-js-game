@@ -3,7 +3,13 @@
 Um mini-game inspirado no clássico Jo-Ken-Po, mas com cartas e personagens do universo Yu-Gi-Oh!. O objetivo do desafio foi recriar a mecânica de pedra, papel e tesoura utilizando JavaScript puro, manipulação de DOM e lógica própria de vitória e derrota, tudo com uma interface temática interativa.
 
 ## 📸 Prévia
-![image](./src/assets/icons/exemplo.png)
+### Versão para **Mobile** e **Tablet** 📱
+![exemplo1](./src/assets/images/exemplo3.png)
+![exemplo2](src/assets/images/exemplo4.png)
+
+### Versão para **Desktop** 🖥️
+![exemplo3](src/assets/images/exemplo1.png)
+![exemplo4](src/assets/images/exemplo2.gif)
 
 ### 🎴 Cartas Disponíveis :
 ![image](./src/assets/icons/dragon.png)
